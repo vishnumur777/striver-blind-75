@@ -15,7 +15,7 @@ Resources:
   - [3 Sum](https://www.youtube.com/watch?v=DhFh8Kw7ymk)
   - [Container With Most Water](https://takeuforward.org/data-structure/container-with-most-water/)
 ## Binary
-  - [Sum of Two Integers]()
+  - [Sum of Two Integers](https://www.youtube.com/watch?v=gVUrDV4tZfY)
   - [Number of 1 Bits]()
   - [Counting Bits]()
   - [Missing Number]()
