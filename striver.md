@@ -1,5 +1,4 @@
 Array
-  <div>
   [Two Sum](https://www.youtube.com/watch?v=UXDSeD9mN-k)
   [Best Time to Buy and Sell Stock]()
   [Contains Duplicate]()
@@ -10,7 +9,6 @@ Array
   [Search in Rotated Sorted Array]()
   [3 Sum]()
   [Container With Most Water]()
-  </div>
 Binary
   [Sum of Two Integers]()
   [Number of 1 Bits]()
