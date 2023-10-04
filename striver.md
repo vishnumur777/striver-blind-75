@@ -1,8 +1,7 @@
 Array
-  <div markdown=1>
-  [Two Sum](https://www.youtube.com/watch?v=UXDSeD9mN-k)
-  [Best Time to Buy and Sell Stock]()
-  [Contains Duplicate]()
+  - [Two Sum](https://www.youtube.com/watch?v=UXDSeD9mN-k)
+  - [Best Time to Buy and Sell Stock]()
+  - [Contains Duplicate]()
   [Product of Array Except Self]()
   [Maximum Subarray]()
   [Maximum Product Subarray]()
@@ -10,7 +9,6 @@ Array
   [Search in Rotated Sorted Array]()
   [3 Sum]()
   [Container With Most Water]()
-  </div>
 Binary
   [Sum of Two Integers]()
   [Number of 1 Bits]()
